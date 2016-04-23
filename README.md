@@ -1,1 +1,1 @@
-Created by Jekyll Writer
+# blog
